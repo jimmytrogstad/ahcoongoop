@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chahvoiya.8hs.net/sitemap.xml
